@@ -1,6 +1,6 @@
 ---
 name: dellstore
-description: MCP tools for dellstore. Available tools: list_tables, get_table_schema, execute_query, test_connection. Use when the user needs to call these MCP tools.
+description: "MCP tools for dellstore. Available tools: list_tables, get_table_schema, execute_query, test_connection. Use when the user needs to call these MCP tools."
 ---
 
 # dellstore MCP Tools
